@@ -1,0 +1,30 @@
+.monster_image {
+    width: 170px;
+    height: 170px;
+    pointer-events: none;
+}
+
+/* モンスターHP */
+.hp_back {
+    height: 15px;
+    width: 150px;
+    border-radius: 30px;
+    border: 2.5px solid #000000;
+    background-color: rgb(137, 137, 137);
+}
+
+.hp_before{
+    height: 15px;
+    width: 100%;
+    /* margin: 0 auto; */
+    border-radius: 30px;
+    background-color: rgb(255, 110, 110);
+}
+
+.input_box{
+    /* width: 100%;
+    height: 90%; */
+    margin: 10% ;
+    border: 2.5px solid #000000;
+    /* background-color: rgb(255, 110, 110); */
+}
